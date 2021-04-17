@@ -115,9 +115,6 @@ tensorboard-plugin-wit==1.8.0
 termcolor==1.1.0
 terminado==0.9.4
 testpath==0.4.4
-torch==1.5.0
-torchaudio==0.8.1
-torchvision==0.6.0
 tornado==4.5.3
 tqdm==4.60.0
 traitlets==5.0.5
