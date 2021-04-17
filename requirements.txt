@@ -23,7 +23,6 @@ cycler==0.10.0
 Cython==0.29.23
 decorator==5.0.7
 defusedxml==0.7.1
-detectron2 @ git+https://github.com/facebookresearch/detectron2.git@f50ec07cf220982e2c4861c5a9a17c4864ab5bfd
 diazo==1.4.0
 Django==1.7.11
 django-haystack==2.4.1
@@ -86,7 +85,6 @@ protobuf==3.15.8
 ptyprocess==0.7.0
 pyasn1==0.4.8
 pyasn1-modules==0.2.8
-pycocotools @ git+https://github.com/cocodataset/cocoapi.git@8c9bcc3cf640524c4c20a9c40e89cb6a2f2fa0e9#subdirectory=PythonAPI
 pydot==1.4.2
 pygame==2.0.1
 Pygments==2.8.1
@@ -117,7 +115,6 @@ tensorboard-plugin-wit==1.8.0
 termcolor==1.1.0
 terminado==0.9.4
 testpath==0.4.4
-threadpoolctl==2.1.0
 torch==1.8.1
 torchaudio==0.8.1
 torchvision==0.9.1
